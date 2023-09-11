@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Dark345, System Administrator on various platforms
-- 👀 I'm a crypto enthusiast and IT employee
-- 🌱 Node Operator on ETH, ADA, BTSG, CANTO
 - 📫 https://www.hwlegnano.it
 
 <!---
